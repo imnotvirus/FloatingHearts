@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "FloatingHearts",
+    "slug": "FloatingHearts",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
